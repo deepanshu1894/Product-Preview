@@ -25,7 +25,7 @@ body{
     margin: 40px;
 }
 .image{
-    background: url(/images/image-product-desktop.jpg) no-repeat center center / cover ; 
+    background: url(images/image-product-desktop.jpg) no-repeat center center / cover ; 
     height: 100%;
     width: 100%;
     max-width: 100%;
@@ -118,7 +118,7 @@ body{
     height: 600px;
    } 
    .image{
-    background: url(/images/image-product-mobile.jpg) no-repeat center center/ cover;
+    background: url(images/image-product-mobile.jpg) no-repeat center center/ cover;
     border-top-right-radius:11px ;
     border-bottom-left-radius: 0px ;
     height: 100%;
